@@ -1,0 +1,54 @@
+{
+  "footer": [{
+      "name": "Support",
+      "link": "#",
+      "class": "footer__link"
+    },
+    {
+      "name": "Blog",
+      "link": "#",
+      "class": "footer__link"
+    },
+    {
+      "name": "Press",
+      "link": "#",
+      "class": "footer__link"
+    },
+    {
+      "name": "Api",
+      "link": "#",
+      "class": "footer__link"
+    },
+    {
+      "name": "Jobs",
+      "link": "#",
+      "class": "footer__link"
+    },
+    {
+      "name": "Team",
+      "link": "#",
+      "class": "footer__link"
+    },
+    {
+      "name": "Language",
+      "link": "#",
+      "class": "footer__link"
+    }
+  ],
+  "header": [{
+      "icon": "fa fa-compass fa-lg",
+      "link": "#",
+      "class": "navigation__list-item"
+    },
+    {
+      "icon": "fa fa-heart-o fa-lg",
+      "link": "#",
+      "class": "navigation__list-item"
+    },
+    {
+      "icon": "fa fa-user-o fa-lg",
+      "link": "#",
+      "class": "navigation__list-item"
+    }
+  ]
+}
